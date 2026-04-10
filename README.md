@@ -45,10 +45,6 @@ Navigate to the `Program` folder and run `mms.exe`.
 **Step 4: Run!**
 Click the **Run** button in the Controls panel and watch the Micromouse navigate the maze!
 
-## 🎥 Demonstration
-*(Note to recruiter: Add a GIF here showing the mouse successfully solving a maze)*
-> `[Insert an animated GIF of the simulator running here]`
-
 ## 💡 Key Engineering Takeaways
 * **Sensor Data Processing:** Successfully processed simulated sensor parameters to calculate optimal paths and avoid walls dynamically.
 * **Algorithmic Efficiency:** Implemented Greedy Best-First Search to navigate complex layouts, significantly minimizing travel time and redundant movements.
